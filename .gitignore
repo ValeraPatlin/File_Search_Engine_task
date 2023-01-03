@@ -30,3 +30,23 @@
 *.exe
 *.out
 *.app
+
+# MSCode
+build
+.vscode
+.vsdx
+
+.idea
+cmake-build-debug
+*.xlsx
+*.xls
+.bll
+Debug/
+.log
+.vs/
+.idea
+.suo
+Browse.VC.db
+ipch/
+x64/
+
